@@ -1,0 +1,6 @@
+[package]
+name = "cargo-gc"
+version = "0.0.0"
+authors = ["Julius Rakow <julius@rakow.me>"]
+
+[dependencies]
